@@ -1,0 +1,3 @@
+LOG Start: System Initializing.....
+Status: All systems ready
+UPDATE: User 'Aimz' logged in.
